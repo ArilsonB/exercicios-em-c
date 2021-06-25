@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620914860 source:a:\faculdade\primeiro período\introdução a programação\modulosemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
